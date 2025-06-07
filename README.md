@@ -10,15 +10,16 @@ Documentar y profesionalizar el registro de datos de partidas, posiciones y jorn
 
 ## Estructura del repositorio
 
+```
 frikotracker/
-│
-├── data/                   ← Exportaciones de datos
-├── docs/                   ← Capturas, referencias, ideas
-├── powerbi/                ← Archivos .pbix y elementos del dashboard
-├── scripts/                ← Códigos (JS, Python, Apps Script, etc.)
-├── sheets/                 ← Planillas o exportaciones (Google Sheets)
-├── README.md               ← Este archivo
-└── .gitignore              ← Archivos a excluir
+├── data/         ← Exportaciones de datos
+├── docs/         ← Capturas, referencias, ideas
+├── powerbi/      ← Archivos .pbix y elementos del dashboard
+├── scripts/      ← Códigos (JS, Python, Apps Script, etc.)
+├── sheets/       ← Planillas o exportaciones (Google Sheets)
+├── README.md     ← Este archivo
+└── .gitignore    ← Archivos a excluir
+```
 
 
 ## Tecnologías utilizadas
