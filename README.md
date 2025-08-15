@@ -10,12 +10,12 @@ Registrar resultados de las partidas y generar un tablero de posiciones actualiz
     - Fecha (de la jornada)
     - Juego
     - Posición de cada jugador.
-        ![Datos registrados hasta jornada 5](images/Master - Jor5.png)
+        ![Datos registrados hasta jornada 5](/images/Master - Jor5.png)
 - Conteo de victorias por jugador.
 - Cálculo de puntos, por jugador, segun el sistema mencionado en las **notas de desarrollo**.
-    ![Puntos y victorias hasta jornada 5](images/Master 2 - Jor5.png)
+    ![Puntos y victorias hasta jornada 5](/images/Master 2 - Jor5.png)
 - Visualización de una tabla de resultados sencilla en Google Sheets.
-    ![Tablero hasta jornada 5](images/Tablero de pos. - Jor5.png)
+    ![Tablero hasta jornada 5](/images/Tablero de pos. - Jor5.png)
 
 ## Herramientas
 - Google Forms (subida de datos)
