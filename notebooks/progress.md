@@ -10,3 +10,7 @@
 - Subida de las primeras imágenes para agregar al README.md
 - Edición del README.md
 - Planificación estimativa de avances.
+
+### 2025-08-16
+- Creación de una página y subpáginas en Notion para el proyecto.
+- Creación de un sistema de seguimiento de tareas relacionadas al proyecto.
