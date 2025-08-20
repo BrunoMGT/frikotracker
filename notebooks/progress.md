@@ -14,3 +14,6 @@
 ### 2025-08-16
 - Creación de una página y subpáginas en Notion para el proyecto.
 - Creación de un sistema de seguimiento de tareas relacionadas al proyecto.
+
+### 2025-08-19
+- Aprendizaje y práctica de Git y GitHub.
