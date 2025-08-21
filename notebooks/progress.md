@@ -17,3 +17,6 @@
 
 ### 2025-08-19
 - Aprendizaje y práctica de Git y GitHub.
+
+### 2025-08-21
+- Aprendizaje y práctica de Git y GitHub.
